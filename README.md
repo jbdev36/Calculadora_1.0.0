@@ -140,5 +140,7 @@ armazena a quantidade de click por valor de investimento}
 
  o Como Compilar: Foi utilizado o Delphi Xe3, instalar o componente zeoslib
 
- o Executar o Script através do banco de dados MySQL
+ o Executar o Script através do banco de dados MySQL (_dados_mysql_calculadora.sql)
+ 
+ o Após realizar todo procedimento relatado axcima, colocar a pasta "calculadora" na raiz C:, para que haja o funcionamento correto da aplicação
 
