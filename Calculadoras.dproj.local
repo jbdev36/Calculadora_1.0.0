@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/05 17:10:25.000.463,=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/05 18:23:42.000.878,=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/07 16:41:39.000.396,=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/30 11:03:20.000.659,=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/16 10:22:44.046,=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/16 10:23:03.321,C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\calculadora\calculadora.pas=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/16 10:23:03.321,C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\calculadora\calculadora.dfm=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/16 10:23:21.589,C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\calculadora\Calculadoras.dproj=C:\Users\Renivaldo Silva\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
