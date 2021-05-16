@@ -75,7 +75,7 @@ o Em caso de dúvida reportar solicitação ao desenvolvedor do Calculadora
 
 1.0.0.
 
-    http://lists.sourceforge.net/lists/listinfo/firebird-devel
+   https://github.com/jbdev36/Calculadora_1.0.0
 
 
 
